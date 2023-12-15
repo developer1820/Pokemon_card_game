@@ -46,6 +46,8 @@ def selection_of_pokemon_and_compare_stats():
 
 selection_of_pokemon_and_compare_stats()
 
+# 7. Additionaly, Play n number of games and based on stat selected by player and opponent, declare who wins most of the game and store it into a text file
+
 def play_rounds():
     player_winning_count = 0
     opponent_winning_count = 0
